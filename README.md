@@ -4,4 +4,4 @@ Welcome to my GitHub! I'm currently pursuing a BTech in Computer Science Enginee
 
 
 
-![image](https://github.com/prajikta08/prajikta08/assets/147370981/10fe1b12-14bc-4702-aa3e-5865b09f8699)(https://x.com/Prajikta08)
+[image](https://github.com/prajikta08/prajikta08/assets/147370981/5e72aecf-0bbe-4c73-97dd-ba4dfc80e0c6)
