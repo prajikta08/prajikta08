@@ -1,10 +1,10 @@
 # Hi there, I'm Prajikta Sati! 👋
 
-Welcome to my GitHub! I'm currently pursuing a BTech in Computer Science Engineering, passionate about web development and exploring its limitless possibilities. I enjoy diving deep into frontend technologies and crafting seamless user experiences. Let's connect and collaborate! 🚀
+Welcome to my GitHub! I'm currently pursuing BTech in Computer Science Engineering, passionate about web development and exploring its limitless possibilities. I enjoy diving deep into frontend technologies and crafting seamless user experiences. Let's connect and collaborate! 🚀
 
 
 - 🌱 I’m currently learning Frontend libraries
-- 📫 How to reach me: prajiktasatigmail.com
+- 📫 How to reach me: [prajiktasatigmail.com](mailto:john.doe@gmail.com)
 
 ## 🔗 Connect with me
 
