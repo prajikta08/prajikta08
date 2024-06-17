@@ -5,4 +5,4 @@ Welcome to my GitHub! I'm currently pursuing a BTech in Computer Science Enginee
 
 
 
-[![5296514_bird_tweet_twitter_twitter logo_icon](https://github.com/prajikta08/prajikta08/assets/147370981/1b3f5a82-75a8-4ea0-88da-f102682e01da)](https://x.com/Prajikta08)[![5296501_linkedin_network_linkedin logo_icon](https://github.com/prajikta08/prajikta08/assets/147370981/7f917f2e-1faa-405a-96c6-ebbca9d7168d)](https://www.linkedin.com/in/prajikta-sati-40aa34283/)
+[![5296514_bird_tweet_twitter_twitter logo_icon](https://github.com/prajikta08/prajikta08/assets/147370981/1b3f5a82-75a8-4ea0-88da-f102682e01da)](https://x.com/Prajikta08)  [![5296501_linkedin_network_linkedin logo_icon](https://github.com/prajikta08/prajikta08/assets/147370981/7f917f2e-1faa-405a-96c6-ebbca9d7168d)](https://www.linkedin.com/in/prajikta-sati-40aa34283/)
